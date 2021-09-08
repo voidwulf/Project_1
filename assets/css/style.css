@@ -1,3 +1,28 @@
-body {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Noto+Sans+JP:wght@500&family=Roboto:ital,wght@0,700;1,500&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+
+}
+
+h1 {
+    font-family: Anton, sans-sersif;
+    font-weight: 400;
+}
+h2 {
+    font-family: Roboto, sans-serif;
+    font-weight: 700;
+}
+h3 {
+    font-family: Roboto, sans-serif;
+    font-weight: 700;
+}
+p {
+    font-family: Noto Sans JP, sans-serif;
+    font-weight: 300;
+}
+li {
+    font-family: Noto Sans JP, sans-serif;
+    font-weight: 300;  
 }
