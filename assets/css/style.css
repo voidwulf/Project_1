@@ -5,24 +5,29 @@
     border: none;
 
 }
-
-h1 {
-    font-family: Anton, sans-sersif;
-    font-weight: 400;
-}
-h2 {
-    font-family: Roboto, sans-serif;
-    font-weight: 700;
-}
-h3 {
-    font-family: Roboto, sans-serif;
-    font-weight: 700;
-}
-p {
+body {
     font-family: Noto Sans JP, sans-serif;
     font-weight: 300;
 }
+p {
+    font-family: Noto Sans JP, sans-serif;
+    font-weight: 200;
+}
 li {
     font-family: Noto Sans JP, sans-serif;
-    font-weight: 300;  
+    font-weight: 200;  
+}
+/* Headings and logos */
+h1 {
+    letter-spacing: 4px;
+    color:black:
+}
+#logo {
+    float: left;
+    font-size: 280%;
+}
+
+h2, h3 {
+    font-family: Roboto, sans-serif;
+    font-weight: 700;
 }
