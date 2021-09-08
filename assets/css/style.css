@@ -18,9 +18,10 @@ li {
     font-weight: 200;  
 }
 /* Headings and logos */
+
 h1 {
     letter-spacing: 4px;
-    color:black;
+    color: ivory;
 }
 #logo {
     float: left;
@@ -44,5 +45,13 @@ h2, h3 {
 }
 #menu a {
     text-decoration: none;
-    color: #3a3a3a;
+    color: #8d746ad3;
+}
+/*hero image */
+#hero-image {
+    height: 600px;
+    width: 100%;
+    background: url('../images/hero_image.jpg') no-repeat center center;
+
+
 }
