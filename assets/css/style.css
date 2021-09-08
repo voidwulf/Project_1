@@ -12,16 +12,25 @@ body {
 p {
     font-family: Noto Sans JP, sans-serif;
     font-weight: 200;
+    padding-left: 2%;
+    padding-bottom: 1%;
 }
 li {
     font-family: Noto Sans JP, sans-serif;
-    font-weight: 200;  
+    font-weight: 200; 
+    padding-left: 3%; 
+
 }
-/* Headings and logos */
+
+div {
+    padding-bottom: 2%;
+}
+/* Headings and logos - inspired by love running page*/
 
 h1 {
     letter-spacing: 4px;
     color: ivory;
+    padding-bottom: 2%;
 }
 #logo {
     float: left;
@@ -31,8 +40,10 @@ h1 {
 h2, h3 {
     font-family: Roboto, sans-serif;
     font-weight: 700;
+    padding-bottom: 1%;
+    scroll-padding-top: 2%;
 }
-/*navigation links */
+/*navigation links - inspired by love running page*/
 #menu {
     font-size: 120%;
     letter-spacing: 4px;
@@ -52,6 +63,15 @@ h2, h3 {
     height: 600px;
     width: 100%;
     background: url('../images/hero_image.jpg') no-repeat center center;
+}
 
-
+/* section styling */
+#section {
+    padding-left: 2%;
+    width: 95%;
+}
+#bullet-points li {
+    list-style-type: disc;
+    list-style-position: inside;
+    padding-bottom: 0.5%;
 }
