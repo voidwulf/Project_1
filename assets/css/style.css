@@ -125,3 +125,19 @@ h2, h3 {
     background-color: black;
     padding-bottom: auto; 
 }
+/*footer*/
+footer {
+    height: 150px;
+}
+.social-media {
+    text-align: center;
+}
+.social-media > li {
+    display: inline;
+}
+.social-media i {
+    font-size: 300%;
+    color:#2B2C2C;
+    margin: 1%;
+    padding: 5%;
+}
