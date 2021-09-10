@@ -111,11 +111,13 @@ h2, h3 {
 /* external links found in section paragraph text */
 .external_link {
     color: #28518b;
+    text-decoration: none;
 }
-/*#external a:hover{
-    font-size: 150%;
+.external_link:hover{
+    color: #ECE6E0;
     background-color:#1e2f46;
-}  */
+    text-decoration: underline;
+} 
 
 
 /* section images*/
