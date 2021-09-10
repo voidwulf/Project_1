@@ -48,7 +48,15 @@ h2, h3 {
     font-size: 120%;
     letter-spacing: 4px;
 }
-
+#menu, #logo {
+    line-height: 75px;
+}
+#menu a:hover {
+    border-bottom: 3px solid #ECE6E0;
+}
+.active {
+    border-bottom: 3px solid #ECE6E0;
+}
 #menu li {
     float: right;
     list-style-type: none;
