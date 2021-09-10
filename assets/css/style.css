@@ -108,6 +108,16 @@ h2, h3 {
     margin: 5px;
 }
 
+/* external links found in section paragraph text */
+.external_link {
+    color: #28518b;
+}
+/*#external a:hover{
+    font-size: 150%;
+    background-color:#1e2f46;
+}  */
+
+
 /* section images*/
 .section-images {
     margin: auto;
@@ -130,7 +140,7 @@ h2, h3 {
 /*header*/
 .header {
     height:65px;
-    background-color: black;
+    background-color: #1b1b1b;
     padding-bottom: auto; 
 }
 /*footer*/
