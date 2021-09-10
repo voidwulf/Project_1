@@ -71,42 +71,54 @@ h2, h3 {
     background: #f0dac2 none;
 }  /*inspired by https://www.dndbeyond.com/ */
 
-#section{
+/*sections*/
+.section{
     margin: auto;
-    width: 940px;  /* witht inspired by https://www.dndbeyond.com/ */
+    width: 75%; 
+    max-width: 940px; /* witht inspired by https://www.dndbeyond.com/ */
     border: 5px;
     padding: 10px;
 } /*inspired by https://careerkarma.com/blog/css-box-model/ */
 
-#section p{
-    padding-bottom: 2%;
+.section p{
+    padding-bottom: 8px;
+    line-height: 1.8;
+    margin: 5px;
 }
 
-#section h2 h3 {
-    padding-bottom: 4%;
+.section h2 h3 {
+    padding-bottom: 2%;
 }
-#bullet-points li {
+.bullet-points li {
     list-style-type: disc;
     list-style-position: inside;
-    padding-bottom: 0.5%;
+    padding-bottom: 10px;
     padding-left: 5%;
+    line-height: 1.8;
 }
-#subsection {
-    padding-bottom: 4%;
+/*subsections*/
+.subsection {
+    margin: 5px;
 }
 
 /* section images*/
 .section-images {
     margin: auto;
-    width: 800px;
+    width: 70% ;
+    max-width: 800px ;
     height: auto;
-    border: 5px solid black ; 
-    padding: 10px;
-    background-color: rgb(230, 221, 221);
+    padding: 0px; 
+    /*border: 5px solid black;*/
 }
 
 .section-images img {
-    width: 800px;;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+#no_bacground{
+    background-color:rgb(230, 221, 221);
+    padding: 5px;
 }
 /*header*/
 .header {
