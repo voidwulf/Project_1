@@ -108,3 +108,7 @@ h2, h3 {
 .section-images img {
     width: 800px;;
 }
+/*header*/
+.header {
+    height:65px;
+}
