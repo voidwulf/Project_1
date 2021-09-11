@@ -190,9 +190,17 @@ footer {
     .header {
         height:130px;
     }
-    .header >div{
-        width: 100%;
+    .header h1 {
+        padding: 0%;
     }
+   .header ul{
+        width: 100%;
+    } /* header with for responsivnes for smallest smartphone screen 320px */
+    #menu li {
+        float: right;
+        list-style-type: none;
+        margin-right: 10px;
+    }/* header with for responsivnes for smallest smartphone screen 320px */
     .section {
         clear: left;
         float: left;
