@@ -201,6 +201,14 @@ footer {
         list-style-type: none;
         margin-right: 10px;
     }/* header with for responsivnes for smallest smartphone screen 320px */
+
+    #hero-image{
+        height: 260px;
+        width: 100%;
+        padding: 0%;
+        background-size: 130% auto;
+    } /* hero image size for responsivnes for smallest smartphone screen 320px - inspired by https://blog.hubspot.com/marketing/hero-image and love running project */
+
     .section {
         clear: left;
         float: left;
