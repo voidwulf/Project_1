@@ -206,13 +206,14 @@ footer {
         height:50px;
     }
     #cover-text {
-        font-size: 100%;
+        text-align:center;
+        font-size: 120%;
         font-family: Roboto;
         text-transform: uppercase;
-        letter-spacing: 3px;
+        letter-spacing: 2px;
     
-        width: 500px;
-        height: 50px;
+        width: 700px;
+        height: 100px;
     
         padding-top: 10px;
         padding-left: 10px;
@@ -251,6 +252,7 @@ footer {
     } /* hero image size for responsivnes for smallest smartphone screen 320px - inspired by https://blog.hubspot.com/marketing/hero-image and love running project */
 
     #cover-text {
+        text-align: left;
         font-size: 90%;
         font-family: Roboto;
         text-transform: uppercase;
