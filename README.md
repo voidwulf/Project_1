@@ -19,6 +19,7 @@ For the creation of this site, there are many sources that deserve credit for ma
 ### Text content
 
 Big shout out to the following sources for the text content:
+
 * [GURPS 4th edition Basic Set](http://www.sjgames.com/gurps/) book for inspiring most of the informative content.
 * [Wikipedia](https://www.wikipedia.org/) for information on virtual table top platforms.
 * [DUNGEONFOG](https://www.dungeonfog.com/) for introductory information on DUNGEONFOG mapping platform. 
@@ -55,6 +56,7 @@ Big shout out to:
 * [adrikaszabo](https://pixabay.com/users/adrikaszabo-9453374/) for a beautiful three dice image that is used as a hero image for this site.
 * [PhoenixRisingStock](https://pixabay.com/users/phoenixrisingstock-21967857/) for a post-apocalypse image that helps visually communicate one of the possible survival game .settings to new players.
 * [jcoope12](https://pixabay.com/users/jcoope12-17392968/) for fantasy city image that helps visually communicate one of the possible fantasy game settings to new players.
+* [Baggep](https://pixabay.com/users/baggeb-15600954/) for the cyberpunk image that helps visually communicate one of the possible fantasy game settings to new players.
 * [DanXaw](https://pixabay.com/users/danxaw-9189893/) for dystopian knight image used on the index page that help communicate the flexibility of GURPS system.
 * [signs4fun](https://pixabay.com/users/signs4fun-5074226/) for image of weapons displayed in early 2000's style that helps communicate various options with a touch of nostalgi.
 * [OpenClipart-Vectors](https://pixabay.com/users/openclipart-vectors-30363/) for an image of a duel that communicates tension and drama that players can experience during their game.
