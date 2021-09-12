@@ -194,26 +194,25 @@ footer {
         font-size: 90%;
         letter-spacing: 2px;
     }
+    #menu li {
+        margin-right: 20px; /*set to correct overflow for tablet screens */
+    }
     #logo {
         float: left;
         font-size: 180%;
+        padding: 5px; /*set to correct overflow for tablet screens */
     }
     #hero-image {
-        height: 600px;
+        height: 600px; 
         width: 100%;
     }
-    .header {
-        height:50px;
-    }
+    
     #cover-text {
-        text-align:center;
         font-size: 120%;
-        font-family: Roboto;
-        text-transform: uppercase;
         letter-spacing: 2px;
     
-        width: 700px;
-        height: 100px;
+        width: 500px;
+        height: 75px;
     
         padding-top: 10px;
         padding-left: 10px;
