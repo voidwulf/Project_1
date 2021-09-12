@@ -66,12 +66,36 @@ h2, h3 {
     text-decoration: none;
     color: #ECE6E0;
 }
-/*hero image */
+/*hero image  - inspired by love running project*/ 
 #hero-image {
     height: 600px;
     width: 100%;
-    background: url('../images/hero_image.jpg') no-repeat center center;
+    background: url('../images/hero_image.jpg') no-repeat center center; 
 }
+
+#cover-text, #cover-text h2 {
+    color: #1b1b1b;
+}
+
+#cover-text {
+    text-align: center;
+    position: static; 
+    transform: translate(0%, 0%); /* inspired by https://stackoverflow.com/questions/47606246/center-positioning-text-in-hero-div */
+
+    font-size: 130%;
+    font-family: Roboto;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+
+    width: 700px;
+    height: 70px;
+
+    padding-top: 20px;
+    padding-left: 10px;
+
+    background-color: rgba(129, 138, 146, 0.7);
+}  
+
 
 /* page background */
 #site-enter-gurps {
@@ -181,6 +205,18 @@ footer {
     .header {
         height:50px;
     }
+    #cover-text {
+        font-size: 100%;
+        font-family: Roboto;
+        text-transform: uppercase;
+        letter-spacing: 3px;
+    
+        width: 500px;
+        height: 50px;
+    
+        padding-top: 10px;
+        padding-left: 10px;
+    }  
 
 }
 @media screen and (max-width: 640px) {
@@ -213,6 +249,17 @@ footer {
         padding: 0%;
         background-size: 130% auto;
     } /* hero image size for responsivnes for smallest smartphone screen 320px - inspired by https://blog.hubspot.com/marketing/hero-image and love running project */
+
+    #cover-text {
+        font-size: 90%;
+        font-family: Roboto;
+        text-transform: uppercase;
+        letter-spacing: 3px;
+    
+        width: 300px;
+        height: 100px;
+    
+    }  
 
     .section {
         clear: left;
