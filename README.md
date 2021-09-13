@@ -135,7 +135,7 @@ Deployment has been performe in the following steps:
 * Site has been deployed using Git Pages. After the link has been generated, the site has been tested on desktop web browser, ASUS tablet and Samsung M30 smart phone
 * Link has been sent to friends to receive feedback on how the code works on other devices
 * Dev tools have been used for debugging and testing website during after deployment
-* Most issues during deployment were encountered with overflow where nav bar has been interfering with the elements bellow. 
+* Most issues during deployment were encountered with overflow where nav bar has been interfering with the elements bellow
 
 ## Credits
 
@@ -194,3 +194,6 @@ Big shout out to:
 ##### Technology
 * [Compress JPEG](https://compressjpeg.com/) has been used to compress jpeg images
 * [Tiny png](https://tinypng.com/) has been used to compress PNG images
+
+### Tutor recognition
+* Joke Heyndels for point me to the right tools and tutoring support during the final days of the project
