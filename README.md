@@ -18,9 +18,12 @@ This informational site has the following features developed to achive the goal 
 
 Features are explained in more detail below, as well as future features that are planed to be implemented for this site.
 
+
 ### Hearo Image and cover text
 
 The hero image on this site consists of three six-sided dice representing the signature mechanic of the GURPS system, with an eye-pleasing colored background that feels welcoming. A simple representation of dice is intended to communicate to an aspiring player that this is still a game. Dice being the most commonly used six-sided design would suggest that the content is intended to be light and enjoyable.
+
+<img src="assets/images/Feature_1.JPG" alt="hero-image-and-cover-text">
 
 Cover text on the hero image with a transparent background is one of the first things visitors will see. This is the pitch to newcomers. A very short and inspiring speech that tells the user what this site is about in the first 5 seconds. Text and background color scheme for this cover text was selected to be eye-appealing and complimentary with header and hearo image.
 
@@ -28,12 +31,16 @@ Cover text on the hero image with a transparent background is one of the first t
 
 The header contains the site's logo and a nave bar. Header background color (#1b1b1b) has been chosen to compliment the background color of the site. The color scheme of logo and nav bar menu was chosen to be clear and visible on the header background, making it obvious to the user. 
 
+<img src="assets/images/Feature_2.JPG" alt="header">
+
 Underline nav bar lists items indicates to users what is the current page that they are reading. The hovering feature helps users tell the page they will click on by displaying an underlined text while hovering with the mouse pointer. 
 
 
 ### Footer
 
 The footer contains four icons to point the user to the social media. Icons have been imported from [Font Awesome](https://fontawesome.com/). The color scheme for icon styling has been selected to compliment the page background and header. The icon size has been styled to be obvious and nicely laid out for all devices. 
+
+<img src="assets/images/Feature_3.JPG" alt="footer">
 
 The following four social media platform have been chosen, as they represent the best option for gaming community support:
 * Facebook - a Facebook group is the most common way to get in touch with the audience, build a community where experiences and ideas are exchanged
@@ -45,6 +52,8 @@ The following four social media platform have been chosen, as they represent the
 
 Text content has been based on the site author's experience with the GURPS game system. The information has been broken down into small, easy-to-understand sections with the intent to spark curiosity for readers. Text font and color have been choosing to be easy to read. The maximal paragraph width has been selected based on mentor constructive feedback and internet research. The result of the research was a text that easy comfortable to read with a rewarding feeling of progression as the user progresses through the page. 
 
+<img src="assets/images/Feature_4.JPG" alt="text-and-bacground">
+
 Background color scheme was created to compliment the text and headers using [Adobe Color](https://color.adobe.com/). The color has been optimized to calm the eyes and retain some color resemblance to the [GURPS community forum](https://forums.sjgames.com/forumdisplay.php?f=13). During development, the selected color scheme showed to be more comfortable to look at during long screen time, and the decision was made to keep the current color scheme. 
 
 ### Images
@@ -53,6 +62,8 @@ Most images were taken from Pixabay (please see credits), while the rest were ta
 Due to the GURPS flexibility and the message of that flexibility aimed to be communicated, it was hard to find images with a consistent style. Images are carefuly chosen and placed with a systematic intent. 
 
 The first image of a knight on the index page is of a drawing that communicates to the visitor simple visual information on how the system is flexible, who told any additional details on the image that may indicate the game's complexity.  
+
+<img src="assets/images/Feature_5.JPG" alt="site-images">
 
 On the basic information page, the first two images contain an art style that appeals more to the audience born during 80's and early 90's, while the last three images appeal more to the audience that prefers the modern art style. The text content between tyle serves as a separation to avoid inconsistency in art while appeasing both user populations. Image of the GURPS books found in the content between these two art styles serves as a natural visual adaptation as the user reads throw the content.
 
@@ -63,6 +74,8 @@ Images on an additional information page were selected to show the user what els
 Links on this site can be devided in two broad groups:
 * Footer icons - clicable links that point the user to the social media platform
 * Text links - links in the text that point the user to the resources
+
+<img src="assets/images/Feature_6.JPG" alt="site links">
 
 Text links are bolded with a color scheme that makes them stand out from the rest of the text. Colors have been chosen to be obvious and comfortable to read. Text links also have a hovering effect that changes the text's color and shows it in a black box to indicate to the user that they are hovering over the link. All links open a new tab when clicked to keep the user on the current page. 
 
