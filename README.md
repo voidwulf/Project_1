@@ -5,6 +5,8 @@ Enter GURPS is an informative site that provides a comprehensive short introduct
 Whit a short reading time, a visitor to this site can easily decide if the GURPS is a game they want to try out. Information on the site also guides users to easy and comprehensive free official GURPS material that will help them play and test their first game. Examples of different game types on this site give an idea of the potential game and GM (game master) pitch for your players. 
 
 
+<img src="assets/images/responsive_design.JPG" alt="Responsive-design-overflow">
+
 ## Features
 
 This informational site has the following features developed to achive the goal of informing the user about a tabletop game while making it easy and comftable to read:
@@ -88,6 +90,36 @@ Folloging features are planed to be implemented in the future development of thi
 
 ## Testing
 
+Testing has been performed before and after site deployment. 
+
+* CSS code has been validated using Jigsaw W3C. Errors encountered were during this validation were blank spaces in font naming. An error has been fixed, and validation has passed.  Additional validation has been performed after deployment as the code was debugged and additional lines added of code added to support smaller screen size.
+
+<img src="assets/images/CSS-validation.JPG" alt="site links">
+
+* HTML code for all three pages has been validated using W3C validator – additional code changes have been made to the code to pass the validation. An additional element has been added to hero image section to pass validation and serve as an inspirational text. 
+
+<img src="assets/images/HTML-validation.JPG" alt="site links">
+
+* Unicorn revealer add-on was used to inspect the web page overflow – This tool proved useful during the pre-deployment phase. The majority of the overflow issues during deployment have been encountered around the header and first section area with tablet size screen. The second issue was encountered during the addition of the cover message addition to the hero image.
+
+<img src="assets/images/overflow.JPG" alt="site links">
+
+* Google dev tools have been used for debugging issues during the deployment phase. The majority of issues have been related to the image path that was not visible in the pre-deployment phase. Dev tools have also been used to fix the overflow errors before editing the code in the editor.
+
+<img src="assets/images/debugigng-1.JPG" alt="site links">
+
+* Lighthouse has been used to assess the usability and performance of the site. For all three pages, one of the issues was the size of the images. Decompression has been performed. 
+
+<img src="assets/images/lighthouse-1.JPG" alt="site links">
+Index page
+
+<img src="assets/images/lighthouse-2.JPG" alt="site links">
+Basics page
+
+<img src="assets/images/lighthouse-3.JPG" alt="site links">
+Additional information page
+
+Additional issues need to be fixed to improve usability ( edit ccs code), which is left to resolve later due to time limitations. Other areas of improvement are related to reducing the overflow of elements. 
 
 ## Deployment
 
