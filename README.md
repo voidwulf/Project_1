@@ -110,19 +110,32 @@ Testing has been performed before and after site deployment.
 
 * Lighthouse has been used to assess the usability and performance of the site. For all three pages, one of the issues was the size of the images. Decompression has been performed. 
 
-<img src="assets/images/lighthouse-1.JPG" alt="site links">
 Index page
+<img src="assets/images/lighthouse-1.JPG" alt="site links">
 
-<img src="assets/images/lighthouse-2.JPG" alt="site links">
 Basics page
+<img src="assets/images/lighthouse-2.JPG" alt="site links">
 
-<img src="assets/images/lighthouse-3.JPG" alt="site links">
 Additional information page
+<img src="assets/images/lighthouse-3.JPG" alt="site links">
+
 
 Additional issues need to be fixed to improve usability ( edit ccs code), which is left to resolve later due to time limitations. Other areas of improvement are related to reducing the overflow of elements. 
 
 ## Deployment
 
+Deployment has been performe in the following steps: 
+
+* Public repository Project 1 has been selected https://github.com/voidwulf/Project_1
+* GitHup Pages has been used for deployment
+* Main branch has been chosen as a source
+<img src="assets/images/deploy.JPG" alt="site links">
+
+* Deploy link has been generated for use
+* Site has been deployed using Git Pages. After the link has been generated, the site has been tested on desktop web browser, ASUS tablet and Samsung M30 smart phone
+* Link has been sent to friends to receive feedback on how the code works on other devices
+* Dev tools have been used for debugging and testing website during after deployment
+* Most issues during deployment were encountered with overflow where nav bar has been interfering with the elements bellow. 
 
 ## Credits
 
@@ -144,9 +157,11 @@ Special thanks to the following provider for helping to inspect the content:
 
 #### Styling code
 For inspiration of style for this page that breathing it to the ready state for deployment, a big shout out to:
-* Code Institute [Lover running](https://github.com/Code-Institute-Org/love-running-2.0) for ispiring work on logo, header and footer.
+* Code Institute [Lover running](https://github.com/Code-Institute-Org/love-running-2.0) for ispiring work on logo, hero image, header and footer.
 * [D&D Beyond](https://www.dndbeyond.com/) for inspiration on paragraph width that provides more user-friendly and rewarding reading through the informative text.
 * [CAREER KARMA](https://careerkarma.com/blog/css-box-model/) for inspiration on the section division code for a more eye-appealing reading of the informative text.
+* [Stack Overflow](https://stackoverflow.com/questions/47606246/center-positioning-text-in-hero-div) has been used as a base to position cover text of hero image. 
+* [Hubspot code](https://blog.hubspot.com/marketing/hero-image) for modifcation of hero image for smaller size screens. 
 
 #### Technology
 
@@ -175,3 +190,7 @@ Big shout out to:
 * [ProFantasy](https://www.profantasy.com/products/cc3.asp) team that developed Campaign Cartographer software used for building maps for my campaigns used as examples on this site.
 * [Roll20](https://roll20.net/) virtual table top platform where one of my active campaign is used as a sample to provide informative visual information to newcomers to the hobby.
 * [DUNGEONFOG](https://www.dungeonfog.com/) mapmaking site that I use to build maps for my campaign and use a screenshot of the same as an example for new players and GMs. 
+
+##### Technology
+* [Compress JPEG](https://compressjpeg.com/) has been used to compress jpeg images
+* [Tiny png](https://tinypng.com/) has been used to compress PNG images
